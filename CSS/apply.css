@@ -1,0 +1,72 @@
+#contact-area 
+{
+	float: left;
+	width: 450px;
+	margin-top: 25px;
+}
+#contact-area input, #contact-area textarea
+{
+	width: 200px;
+	height: auto;
+	padding: 2px;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 13px;
+	margin-bottom: 10px;;
+	border: 2px solid #cccccc;
+}
+#contact-area select
+{
+	width: 200px;
+	height: auto;
+	padding: 2px;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 13px;
+	margin-bottom: 10px;;
+	border: 2px solid #cccccc;
+}
+#contact-area textarea 
+{
+	height: 90px;
+}
+#contact-area textarea:focus, #contact-area input:focus,  #contact-area select:focus{
+	border: 2px solid #3ebeed;
+}
+
+#contact-area input.submit-button 
+{
+	width: 100px;
+	height: 30px;
+	margin-left: 280px;
+	margin-top: 20px;
+	font-family: arial, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #7a7a7a;
+	background: #4ccaff;
+	cursor: pointer;
+}
+#contact-area input.submit-button1 
+{
+	width: 100px;
+	height: 30px;
+	margin-left: 290px;
+	margin-top: 20px;
+	font-family: arial, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #7a7a7a;
+	background: #4ccaff;
+	cursor: pointer;
+}
+
+label 
+{
+	float: left;
+	text-align: right;
+	margin-right: 15px;
+	width: 220px;
+	padding-top: 5px;
+	font-size: 14px;
+	font-family: arial, helvetica, sans-serif;
+	color: #7a7a7a;
+}
