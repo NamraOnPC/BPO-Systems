@@ -2,9 +2,7 @@
  * Project Name:	jActivating
  * Project URI:	http://jactivating.sourceforge.net
  * Description:	Allows website users to interact with embedded content without 'activating' it first
- * Version:		1.2.0 alpha 2 - May 16, 2007
  * License:		This software is Public Domain (no rights reserved)
- *
  * Installation: 
  * 1) Upload embeddedcontent.js into some directory on your web server.
  * 2) Include the JavaScript file in the <head> of your document like this:
